@@ -1,4 +1,4 @@
-name: Build Launcher APK
+name: Build Launcher APK TV
 
 on:
   workflow_dispatch:
